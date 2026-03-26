@@ -55,7 +55,7 @@
 
  <p align="left">
   <a href="https://github.com/Dishita-Taneja">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishita-Taneja&theme=default&hide_border=true" alt="Dishita's Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishita-Taneja&theme=algolia&hide_border=false" alt="Dishita's Streak" />
   </a>
 </p> 
 
