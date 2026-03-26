@@ -36,7 +36,7 @@
 <a href="https://linkedin.com/in/dishita-taneja-37b14b328" target="blank"><img src="https://camo.githubusercontent.com/1f92cfdcf31442088395e58908ab0068fedef013c5d27376beaca15190b27781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d6c6f676f3f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d776869746526636f6c6f723d253233306137376236" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=%230a77b6" style="max-width: 100%;"></a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Dishita-Taneja&show_icons=true&theme=algolia&hide_border=true" alt="Dishita's GitHub Stats" />
   
@@ -50,7 +50,19 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/498e341ffd3a7a1ed1d35c1604fd303d30f1bb5648a11ebe201be8d498c9ec07/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a61796174692d5368756268616e67656526"><img align="center" src="https://camo.githubusercontent.com/498e341ffd3a7a1ed1d35c1604fd303d30f1bb5648a11ebe201be8d498c9ec07/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a61796174692d5368756268616e67656526" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Dishita-Taneja&amp;" style="max-width: 100%;"></a></p>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/498e341ffd3a7a1ed1d35c1604fd303d30f1bb5648a11ebe201be8d498c9ec07/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a61796174692d5368756268616e67656526"><img align="center" src="https://camo.githubusercontent.com/498e341ffd3a7a1ed1d35c1604fd303d30f1bb5648a11ebe201be8d498c9ec07/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a61796174692d5368756268616e67656526" alt="Jayati-Shubhangee" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Dishita-Taneja&amp;" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/498e341ffd3a7a1ed1d35c1604fd303d30f1bb5648a11ebe201be8d498c9ec07/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a61796174692d5368756268616e67656526"><img align="center" src="https://camo.githubusercontent.com/498e341ffd3a7a1ed1d35c1604fd303d30f1bb5648a11ebe201be8d498c9ec07/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a61796174692d5368756268616e67656526" alt="Jayati-Shubhangee" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Dishita-Taneja&amp;" style="max-width: 100%;"></a></p> -->
 
+
+<p align="center">
+  <a href="https://github.com/Dishita-Taneja">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishita-Taneja&theme=default&hide_border=true" alt="Dishita's Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dishita-Taneja">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishita-Taneja&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+  </a>
+</p>
 
 
