@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dishita Taneja</h1>
-<h3 align="center">A passionate learner and developer</h3>
+<h1 align="left">Hi 👋, I'm Dishita Taneja</h1>
+<h3 align="left">A passionate learner and developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+<p align="left">
 
----
-
-### 👩‍💻 About Me
 
 💡 Avid learner driven by curiosity and a passion for technology. 
 💻 Practicing DSA to build consistency and sharpen problem-solving skills.
