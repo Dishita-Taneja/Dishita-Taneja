@@ -38,10 +38,10 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Dishita-Taneja&show_icons=true&theme=algolia&hide_border=true" alt="Dishita's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dishita Taneja&show_icons=true&theme=algolia&hide_border=true" alt="Dishita's GitHub Stats" />
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishita-Taneja&layout=compact&theme=algolia&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishita Taneja&layout=compact&theme=algolia&hide_border=true" alt="Most Used Languages" />
 
 </div>
