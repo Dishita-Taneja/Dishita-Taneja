@@ -59,19 +59,10 @@
   </a>
 </p> 
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dishita-Taneja&show_icons=true&theme=algolia" alt="Dishita's GitHub Stats" />
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dishita-Taneja&layout=compact&theme=algolia" alt="Most Used Languages" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dishita-Taneja&show_icons=true&theme=default&hide_border=false" alt="Dishita's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishita-Taneja&layout=compact&theme=default&hide_border=false" alt="Most Used Languages" />
-</p>
-
