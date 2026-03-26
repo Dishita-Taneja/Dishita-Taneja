@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Dishita Taneja</h1>
-<h3 align="left">A passionate learner and developer</h3>
+<!-- <h3 align="left">A passionate learner and developer</h3> -->
 
 <p align="left">
 
