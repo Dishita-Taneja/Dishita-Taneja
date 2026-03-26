@@ -74,11 +74,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishita-Taneja&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </p> -->
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dishita-Taneja&show_icons=true&theme=algolia" alt="Dishita's GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dishita-Taneja&layout=compact&theme=algolia" alt="Most Used Languages" />
 </p>
 
