@@ -12,8 +12,9 @@
 ### 🚀 Languages and Tools I Use
 
 <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -32,15 +33,15 @@
 ### ⚡ Where to find me
 
 <p align="left">
-<a href="https://linkedin.com/in/dishita-taneja-37b14b328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishita-taneja-37b14b328" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dishita-taneja-37b14b328" target="blank"><img src="https://camo.githubusercontent.com/1f92cfdcf31442088395e58908ab0068fedef013c5d27376beaca15190b27781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d6c6f676f3f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d776869746526636f6c6f723d253233306137376236" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=%230a77b6" style="max-width: 100%;"></a>
 </p>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia&hide_border=true" alt="Dishita's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dishita-Taneja&show_icons=true&theme=algolia&hide_border=true" alt="Dishita's GitHub Stats" />
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=algolia&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishita-Taneja&layout=compact&theme=algolia&hide_border=true" alt="Most Used Languages" />
 
 </div>
