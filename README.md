@@ -53,11 +53,11 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/498e341ffd3a7a1ed1d35c1604fd303d30f1bb5648a11ebe201be8d498c9ec07/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a61796174692d5368756268616e67656526"><img align="center" src="https://camo.githubusercontent.com/498e341ffd3a7a1ed1d35c1604fd303d30f1bb5648a11ebe201be8d498c9ec07/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a61796174692d5368756268616e67656526" alt="Jayati-Shubhangee" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Dishita-Taneja&amp;" style="max-width: 100%;"></a></p> -->
 
 
-<!-- <p align="left">
+ <p align="left">
   <a href="https://github.com/Dishita-Taneja">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishita-Taneja&theme=default&hide_border=true" alt="Dishita's Streak" />
   </a>
-</p> -->
+</p> 
 
 <!-- <p align="left">
   <a href="https://github.com/Dishita-Taneja">
