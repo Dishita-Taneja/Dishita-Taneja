@@ -12,7 +12,7 @@
 ### 🚀 Languages and Tools I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,fastapi,streamlit,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,fastapi,vscode,github" />
 </p>
 
 ---
