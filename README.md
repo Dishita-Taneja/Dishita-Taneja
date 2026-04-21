@@ -11,7 +11,7 @@
 
 ### 🚀 Languages and Tools I Use
 
-<p align="left">
+<!-- <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
@@ -26,6 +26,12 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p> -->
+
+## 🚀 Languages and Tools I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,aws,vscode,github" />
 </p>
 
 ---
