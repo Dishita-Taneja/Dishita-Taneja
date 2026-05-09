@@ -6,8 +6,6 @@
 💡 Avid learner passionate about coding and problem-solving—always curious, eager to explore, and driven by a love for cutting-edge technologies. 💻 Consistently practicing Data Structures and Algorithms to build consistency and sharpen my problem-solving skills. 🌐 Building real-world web applications and exploring the world of Machine Learning & Artificial Intelligence. 🤝 Always open to learning from industry experts and every opportunity around me. 🚀 On a mission to grow into a well-rounded Software Engineer.
 
 ---
-<p> hello to india </p>
-
 
 ### 🚀 Languages and Tools I Use
 
