@@ -76,9 +76,6 @@ An online proctoring system that monitors candidate behavior in real time to det
 ## 📬 How to Reach Me
 
 <p align="left">
-  <a href="mailto:dishitataneja@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dishitataneja@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/dishita-taneja-37b14b328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-dishita--taneja--37b14b328-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -87,7 +84,7 @@ An online proctoring system that monitors candidate behavior in real time to det
   </a>
 </p>
 
-- 📧 Email: [dishitataneja@gmail.com](mailto:dishitataneja@gmail.com)
+
 - 💼 LinkedIn: [dishita-taneja-37b14b328](https://www.linkedin.com/in/dishita-taneja-37b14b328/)
 - 🐙 GitHub: [Dishita-Taneja](https://github.com/Dishita-Taneja)
 
