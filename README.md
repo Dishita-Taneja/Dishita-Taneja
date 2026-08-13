@@ -54,7 +54,6 @@ An online proctoring system that monitors candidate behavior in real time to det
 
 - 🥇 Internal Qualifier for Smart India Hackathon 2025 with FloatChat AI
 - ✍️ Technical Editor at CodeSpace-IT 2025
-
 ---
 
 ## 📊 GitHub Analytics
