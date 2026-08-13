@@ -32,18 +32,18 @@ This repository contains my personal portfolio website showcasing my skills, pro
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🌊 FloatChat AI - The Voice of Ocean
 
+An interactive platform that transforms user queries into smart visual insights and real-time analysis. It converts ocean data into simple, human-friendly insights to simplify data understanding and support better decision-making.
 - Built an interactive platform that transforms user queries into smart visual insights and real-time analysis.
 - Converts ocean data into simple, human-friendly insights for easier understanding.
 - Supports better decision-making through clear data analysis and visualization.
 
-🔗 [Live Demo](https://floatchat-ai-voice-of-ocean.streamlit.app/)
-
 ### 🔒 XamVigil - AI Proctoring System
 
+An online proctoring system that monitors candidate behavior in real time to detect suspicious activities using behavioral analysis, risk scoring, and alert management.
 - Developed an online proctoring system to monitor candidate behavior in real time.
 - Detects suspicious activities using behavioral analysis and risk scoring.
 - Includes alert management to help identify and report unusual exam activity.
@@ -59,21 +59,21 @@ This repository contains my personal portfolio website showcasing my skills, pro
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dishita-Taneja&show_icons=true&theme=tokyonight&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=1a2234" alt="Dishita's GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/d4a3f261b41ab0906f3337e91667346194d285472219954da60c8eebeb5fb95b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6265696e672d696f7461267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="Dishita's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Dishita-Taneja&theme=tokyonight&hide_border=true&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=8892b0&background=1a2234" alt="Dishita's GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishita-Taneja&layout=compact&theme=tokyonight&hide_border=true&title_color=64ffda&text_color=ccd6f6&bg_color=1a2234" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dishita-Taneja&theme=tokyo-night&hide_border=true&color=64ffda&line=64ffda&point=ffffff&area=true&bg_color=1a2234" alt="GitHub Activity Graph" />
-</p>
+</p> -->
 
 ---
 
@@ -93,5 +93,3 @@ This repository contains my personal portfolio website showcasing my skills, pro
 - 🐙 GitHub: [Dishita-Taneja](https://github.com/Dishita-Taneja)
 
 ---
-
-**Open to internships** 📩 dishitataneja@gmail.com
