@@ -49,7 +49,7 @@ An online proctoring system that monitors candidate behavior in real time to det
 ## 🏆 Achievements
 
 - 🥇 Internal Qualifier for Smart India Hackathon 2025 with FloatChat AI
-- ✍️ Technical Editor at CodeSpace-IT from 2024 to 2025
+- ✍️ Technical Editor at CodeSpace-IT 2025
 
 ---
 
@@ -89,15 +89,3 @@ An online proctoring system that monitors candidate behavior in real time to det
 - 🐙 GitHub: [Dishita-Taneja](https://github.com/Dishita-Taneja)
 
 ---
-
-## 💻 Run Locally
-
-Open `index.html` directly in your browser, or start a local server:
-
-```bash
-python3 -m http.server 8080
-```
-
-Then visit:
-
-🌍 [http://localhost:8080](http://localhost:8080)
