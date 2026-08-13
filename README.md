@@ -63,7 +63,7 @@ An online proctoring system that monitors candidate behavior in real time to det
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Dishita-Taneja&theme=tokyonight&hide_border=true&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=8892b0&background=1a2234" alt="Dishita's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=being-iota&theme=tokyonight&hide_border=true" alt="GitHub Streak Analytics" />
 </p>
 
 <!-- <p align="center">
